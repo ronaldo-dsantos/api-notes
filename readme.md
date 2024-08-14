@@ -5,6 +5,7 @@ Rocketnotes é um sistema web para armazenar links úteis, permitindo adicionar 
 ## Índice
 
 - [Sobre](#sobre)
+- [Tecnologias](#Tecnologias)
 - [Pré-requisitos](#Pré-requisitos)
 - [Instalação](#instalação)
 - [Contato](#contato)
@@ -12,6 +13,14 @@ Rocketnotes é um sistema web para armazenar links úteis, permitindo adicionar 
 ## Sobre
 
 Rocketnotes foi criado para ajudar usuários a organizar e acessar seus links de forma eficiente, superando as limitações dos favoritos tradicionais dos navegadores. Ele permite que os usuários adicionem notas e tags aos links armazenados, facilitando a localização dos links de acordo com o assunto pesquisado.
+
+## Tecnologias
+- HTML
+- CSS
+- JavaScript
+- React.js
+- Vite
+- Styled-components
 
 ## Pré-requisitos
 
