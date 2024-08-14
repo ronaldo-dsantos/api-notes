@@ -25,7 +25,7 @@ Rocketnotes foi criado para ajudar usuários a organizar e acessar seus links de
 
 - Certifique-se de ter o [Node.js](https://nodejs.org/) e o [Visual Studio Code](https://code.visualstudio.com/download/) instalados em seu sistema.
 
-- Para uma experiência completa, é recomendado também clonar e configurar o backend da aplicação disponível em [rocketnotes](https://github.com/ronaldo-dsantos/rocketnotes/) 
+- Para uma experiência completa, é recomendado também clonar e configurar o frontend da aplicação disponível em [rocketnotes](https://github.com/ronaldo-dsantos/rocketnotes/) 
 
 ## Instalação
 
